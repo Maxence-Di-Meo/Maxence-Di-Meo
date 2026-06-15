@@ -31,10 +31,13 @@ Academic full-stack project combining React, Node.js, PostgreSQL, Redis, Docker 
 **[Audio Emotion Recognition](https://github.com/Maxence-Di-Meo/audio-emotion-recognition) - deep learning for speech**  
 Academic AI project for emotion recognition from speech. It includes audio preprocessing, MFCC/ZCR/RMS feature extraction, data augmentation and CNN training with TensorFlow/Keras on RAVDESS/CREMA-D datasets.
 
-**[AirbnbJO / Tourism Rental Analytics](https://github.com/Maxence-Di-Meo/airbnbjo-tourism-analytics) - data engineering and analytics**  
-Data project originally built around short-term rental analysis during the Olympic Games, then extended into a tourism rental analytics stack with Airflow, dbt, PostGIS and Streamlit.
+**[Airbnb Review AI Analysis](https://github.com/Maxence-Di-Meo/airbnb-review-ai-analysis) - NLP for Airbnb reviews**  
+NLP pipeline from the AirbnbJO / short-term-rental analysis work. It uses DistilBERT for sentiment analysis, KeyBERT for keyword extraction and Spark utilities for larger review exports.
 
-Additional cleaned coursework: [ASI Card Market Microservices](https://github.com/Maxence-Di-Meo/asi-card-market-microservices) and [ASI2 Card Game Platform](https://github.com/Maxence-Di-Meo/asi2-card-game-platform).
+**[Airbnb Rental Opportunity Analytics](https://github.com/Maxence-Di-Meo/airbnb-rental-opportunity-analytics) - data engineering and scoring**  
+Data engineering scaffold for rental opportunity scoring with Airflow, dbt, PostGIS, MinIO and Streamlit. It estimates tourism rental potential from real-estate, tourism and accessibility datasets.
+
+Additional cleaned coursework: [AI Coursework Exercises](https://github.com/Maxence-Di-Meo/ai-coursework-exercises), [ASI Card Market Microservices](https://github.com/Maxence-Di-Meo/asi-card-market-microservices) and [ASI2 Card Game Platform](https://github.com/Maxence-Di-Meo/asi2-card-game-platform).
 
 > I am progressively cleaning more coursework and GitLab projects before publishing them with safe READMEs, setup instructions and no local/private files.
 
