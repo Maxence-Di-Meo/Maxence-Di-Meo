@@ -37,6 +37,8 @@ NLP pipeline from the AirbnbJO / short-term-rental analysis work. It uses Distil
 **[Airbnb Rental Opportunity Analytics](https://github.com/Maxence-Di-Meo/airbnb-rental-opportunity-analytics) - data engineering and scoring**  
 Data engineering scaffold for rental opportunity scoring with Airflow, dbt, PostGIS, MinIO and Streamlit. It estimates tourism rental potential from real-estate, tourism and accessibility datasets.
 
+Engineering tools and ML demos: [CSV Data Quality CLI](https://github.com/Maxence-Di-Meo/csv-data-quality-cli), [Repo Quality Auditor](https://github.com/Maxence-Di-Meo/repo-quality-auditor) and [Image Recognition Digits Demo](https://github.com/Maxence-Di-Meo/image-recognition-digits-demo).
+
 Additional cleaned coursework: [AI Coursework Exercises](https://github.com/Maxence-Di-Meo/ai-coursework-exercises), [ASI Card Market Microservices](https://github.com/Maxence-Di-Meo/asi-card-market-microservices) and [ASI2 Card Game Platform](https://github.com/Maxence-Di-Meo/asi2-card-game-platform).
 
 > I am progressively cleaning more coursework and GitLab projects before publishing them with safe READMEs, setup instructions and no local/private files.
