@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software & Data Engineer</strong> finishing an engineering degree at CPE Lyon.
   <br />
-  I build full-stack, data-driven and offline-first software that can survive real-world constraints.
+  I build full-stack, data-driven and AI-assisted software with a pragmatic engineering mindset.
 </p>
 
 <p align="center">
@@ -23,24 +23,18 @@
 
 ---
 
-### Selected Work
+### Selected Public Work
 
-**PimpMyFridge - AI meal planning app**  
+**[PimpMyFridge](https://github.com/Maxence-Di-Meo/pimpmyfridge) - AI meal planning app**  
 Academic full-stack project combining React, Node.js, PostgreSQL, Redis, Docker and an on-device LLM workflow with Qwen/Ollama. The app suggests recipes, plans meals, builds shopping lists and classifies ingredients for nutrition and carbon-impact insights.
 
-**Audio emotion recognition - Deep Learning**  
-Academic deep learning project for emotion recognition from speech. Built an audio preprocessing and training pipeline using MFCC/ZCR/RMS features, data augmentation and CNN models with TensorFlow/Keras on RAVDESS/CREMA-D datasets.
+**[Audio Emotion Recognition](https://github.com/Maxence-Di-Meo/audio-emotion-recognition) - deep learning for speech**  
+Academic AI project for emotion recognition from speech. It includes audio preprocessing, MFCC/ZCR/RMS feature extraction, data augmentation and CNN training with TensorFlow/Keras on RAVDESS/CREMA-D datasets.
 
-**Learning App - long-form course delivery**  
-React + TypeScript application for rich course content, with Tauri desktop support, Vercel deployment, Supabase-backed course storage and offline/local fallback behavior.
+**[AirbnbJO / Tourism Rental Analytics](https://github.com/Maxence-Di-Meo/airbnbjo-tourism-analytics) - data engineering and analytics**  
+Data project originally built around short-term rental analysis during the Olympic Games, then extended into a tourism rental analytics stack with Airflow, dbt, PostGIS and Streamlit.
 
-**Muscu+Diet - fitness and nutrition platform**  
-Full-stack Next.js application with Prisma, PostgreSQL, NextAuth, TanStack Query, Zod and Recharts. Includes weekly planning, shared exercise and recipe libraries, nutrition tracking, dashboards and admin tools.
-
-**MatchManager Plus - sports club management**  
-TypeScript/TanStack application for club operations: events, teams, planning, stock, sponsors, staff, equipment loans and administrative workflows.
-
-> Some repositories are private because they come from professional or academic team contexts. I am progressively preparing clean public versions with READMEs, screenshots and setup instructions.
+> I am progressively cleaning more coursework and GitLab projects before publishing them with safe READMEs, setup instructions and no local/private files.
 
 ---
 
