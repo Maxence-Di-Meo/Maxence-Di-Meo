@@ -25,9 +25,6 @@
 
 ### Selected Work
 
-**Offline-first EdTech platform - Beekee**  
-Graduation internship work on an embedded EdTech platform designed to deliver educational content without an internet connection. I work on architecture redesign, Raspberry Pi/Linux deployments, networking features, performance improvements and deployment automation.
-
 **PimpMyFridge - AI meal planning app**  
 Academic full-stack project combining React, Node.js, PostgreSQL, Redis, Docker and an on-device LLM workflow with Qwen/Ollama. The app suggests recipes, plans meals, builds shopping lists and classifies ingredients for nutrition and carbon-impact insights.
 
