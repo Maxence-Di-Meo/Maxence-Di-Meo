@@ -34,6 +34,8 @@ Academic AI project for emotion recognition from speech. It includes audio prepr
 **[AirbnbJO / Tourism Rental Analytics](https://github.com/Maxence-Di-Meo/airbnbjo-tourism-analytics) - data engineering and analytics**  
 Data project originally built around short-term rental analysis during the Olympic Games, then extended into a tourism rental analytics stack with Airflow, dbt, PostGIS and Streamlit.
 
+Additional cleaned coursework: [ASI Card Market Microservices](https://github.com/Maxence-Di-Meo/asi-card-market-microservices) and [ASI2 Card Game Platform](https://github.com/Maxence-Di-Meo/asi2-card-game-platform).
+
 > I am progressively cleaning more coursework and GitLab projects before publishing them with safe READMEs, setup instructions and no local/private files.
 
 ---
